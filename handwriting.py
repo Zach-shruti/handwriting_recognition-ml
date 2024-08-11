@@ -59,7 +59,7 @@ def preprocess_image(image_path):
     return img
 
 # Example usage with a custom image
-image_path = 'threeo.png'  
+image_path = 'image.png'  
 custom_image = preprocess_image(image_path)
 
 # Make predictions using the trained models
